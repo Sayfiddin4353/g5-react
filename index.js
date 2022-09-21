@@ -1,4 +1,10 @@
-const add=()=>{
-let a=5;
+const add=(str)=>{
+console.log(str);
 }
-//sdfdfhfgdhgv
+
+add("Salom react");
+add("Salom javscript");
+add("Salom javscript");
+add("Salom javscript");
+add("Salom javscript");
+
